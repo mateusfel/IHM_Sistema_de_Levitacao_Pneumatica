@@ -1,0 +1,13 @@
+-----------------------
+Documentação de Scripts
+-----------------------
+LigaDesliga
+Mon Nov 29 01:16:14 2021
+-----------------------
+
+<LigaDesliga.Grupo1:Grupo1_Click()>
+Grupo1_Click()
+
+<LigaDesliga.State:LigaDesliga_OnStateChanged()>
+LigaDesliga_OnStateChanged()
+
